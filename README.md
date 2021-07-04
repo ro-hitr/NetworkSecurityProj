@@ -5,10 +5,12 @@ Output for string2MD5.py:
 
 ![Image 1](/img/output1.png)
 
+
 Output for hashlib_algos.py:
 
-![alt text](https://github.com/ro-hitr/NetworkSecurityProj/tree/main/img/output2.png?raw=true)
+![Image 2](/img/output2.png)
+
 
 Output for salting_iterations.py:
 
-![alt text](https://github.com/ro-hitr/NetworkSecurityProj/tree/main/img/output3.png?raw=true)
+![Image 3](/img/output3.png)
