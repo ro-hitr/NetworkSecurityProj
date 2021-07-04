@@ -3,7 +3,7 @@ Project for Python and Network Security course
 
 Output for string2MD5.py:
 
-![alt text](https://github.com/ro-hitr/NetworkSecurityProj/tree/main/img/output1.png?raw=true)
+![Image 1](/img/output1.png)
 
 Output for hashlib_algos.py:
 
